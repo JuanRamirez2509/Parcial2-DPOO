@@ -11,7 +11,7 @@ public class Interfaz {
     
     public static void main(String[] args) {
         JFrame ventana = new JFrame("Calculadora de Potencia");
-        ventana.setSize(500, 300);
+        ventana.setSize(400, 300);
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
         JPanel panel = new JPanel();
